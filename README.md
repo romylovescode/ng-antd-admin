@@ -43,6 +43,7 @@
 # ✨以前录制的使用教程
 - 快速二开使用详解 [快速二开使用详解](https://www.bilibili.com/video/BV1gF411x7rN/)<br>
 - 项目搭建简易教程 [项目搭建简易教程](https://www.bilibili.com/video/BV1EM4y1w7zd/)<br>
+- **视频，理解源码** https://www.bilibili.com/video/BV1gF411x7rN?spm_id_from=333.788.videopod.episodes&p=6
 
 # ✨如何启动
 1. 如果你只想看看前端，启动起来看看效果，直接拉取源码[这里](https://github.com/huajian123/ng-antd-admin/tree/ng17-mock)，这个ng18的纯前端版本，  
